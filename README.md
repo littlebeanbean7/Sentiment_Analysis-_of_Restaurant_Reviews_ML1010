@@ -1,4 +1,4 @@
-# Sentiment_Analysis-_of_Restaurant_Reviews_ML1010
+# Sentiment Analysis of Restaurant Reviews on Yelp
 
 The ipython notebook in repository is the Appendix of our paper named below. 
 
