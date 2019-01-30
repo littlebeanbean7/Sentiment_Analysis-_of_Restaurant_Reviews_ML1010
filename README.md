@@ -13,4 +13,4 @@ Results showed that the base models have already achieved superior predictive po
 For the ensemble models, we found that stacking using Decision Tree and Logistic Regression as base models and KNN as meta model produces the best result. 
 Multiple strategies for converting customer ratings to the customer sentiment target column were also investigated and discussed.
 
-This group project (Nov 2018- Jan 2019) was for ML1010 Applied Machine Learning and Lifecycle @ York University, Toronto.
+This group project (Nov 2018- Jan 2019) was for one of our machine learning courses.
